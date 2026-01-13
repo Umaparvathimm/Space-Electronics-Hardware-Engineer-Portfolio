@@ -32,7 +32,7 @@ Across projects, I work closely with systems, software, and test teams, and I am
 **Master’s Thesis – Fraunhofer EMI**  
 Hardware Design and Implementation of an Interface for a Distributed High Performance On Board Computer
 
-➡️ `projects/distributed-obc-interface`
+➡️ [View project](projects/distributed-obc-interface)
 
 ---
 
@@ -40,7 +40,7 @@ Hardware Design and Implementation of an Interface for a Distributed High Perfor
 **NeuralSat (Early-Stage Startup)**  
 Ongoing hardware development for the Attitude and Orbit Control Subsystem (AOCS) of a 12U CubeSat platform, including electronics design, integration, and subsystem-level validation.
 
-➡️ `projects/12u-cubesat-aocs-board`
+➡️ [View project](projects/12u-cubesat-aocs-board)
 
 ---
 
@@ -48,7 +48,8 @@ Ongoing hardware development for the Attitude and Orbit Control Subsystem (AOCS)
 **Zentrum für Telematik**  
 Design, simulation, assembly, and testing of a next-generation EPS supporting multiple battery packs.
 
-➡️ `projects/eps-3u-cubesat`
+➡️ [View project](projects/eps-3u-cubesat)
+
 
 ---
 
@@ -56,21 +57,21 @@ Design, simulation, assembly, and testing of a next-generation EPS supporting mu
 **University of Würzburg (UWE-5)**  
 Board bring-up, validation, debugging, and performance characterization of a LoRa-based communication system.
 
-➡️ `projects/lora-board-commissioning`
+➡️ [View project](projects/lora-board-commissioning)
 
 ---
 
 ### 🔹 QO-100 Satellite Transceiver  
 Design and testing of a transceiver for QO-100 amateur radio satellite including RF front-end validation and antenna characterization.
 
-➡️ `projects/qo100-transceiver`
+➡️ [View project](projects/qo-100-transceiver)
 
 ---
 
 ### 🔹 Venus Research Station – Power Subsystem (Conceptual)  
 Conceptual design of an electrical power subsystem for a Venus surface research station.
 
-➡️ `projects/venus-research-station`
+➡️ [View project](projects/venus-research-station)
 
 ---
 
@@ -78,7 +79,7 @@ Conceptual design of an electrical power subsystem for a Venus surface research 
 **Julius-Maximilians University of Würzburg**  
 Development of the electrical subsystem for a satellite concept aimed at forest fire detection, including sensor integration, battery monitoring, and system-level functional testing.
 
-➡️ `projects/forest-fire-detection-satellite`
+➡️ [View project](projects/forest-fire-detection-satellite)
 
 ---
 
