@@ -13,7 +13,7 @@ This project focuses on the **hardware design and implementation of a standardiz
 ---
 
 ## System Architecture (High-Level)
-![COTS OBC Block Diagram](images/COTS_OBC.png)
+![COTS OBC Block Diagram](Images/COTS_OBC.png)
 
 ---
 
@@ -65,22 +65,22 @@ I followed a **prototype-based testing and validation approach** aligned with sp
 - **Python-based automated measurements** to assess repeatability, stability, and consistency across test runs
 
 ### Lab Setup (Examples)
-- ![Lab setup](images/lab_setup_1.jpg)
-- ![Bench testing](images/lab_setup_2.jpg)
+- ![Lab setup](Images/lab_setup_1.jpg)
+- ![Bench testing](Images/lab_setup_2.jpg)
 
 ---
 
 ## Publication & Conference
 A part of this work was presented at **European Data Handling & Data Processing Conference (EDHPC) 2025** and accepted for publication in the **IEEE proceedings**.
 
-- 📄 **Abstract (PDF):** [EDHPC 2025 Abstract](document/Abstract_IEEE%20EDHPC.pdf)
+- 📄 **Abstract (PDF):** [EDHPC 2025 Abstract](Document/Abstract_IEEE%20EDHPC.pdf)
 
   
 
 
 ### Conference Presentation
-- ![Conference presentation](images/conference1.jpg)
-- ![Conference presentation](images/conference2.jpg)
+- ![Conference presentation](Images/conference1.jpg)
+- ![Conference presentation](Images/conference2.jpg)
 
 ---
 
