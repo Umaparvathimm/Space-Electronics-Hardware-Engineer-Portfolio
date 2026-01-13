@@ -11,10 +11,10 @@ This project involved the **design, implementation, assembly, and testing of a n
 ## System Architecture
 
 ### Electrical Power System (EPS) Board
-![EPS Board Block Diagram](images/EPS1.png)
+![EPS Board Block Diagram](Images/EPS1.png)
 
 ### Battery Board
-![Battery Board Block Diagram](images/EPS2.png)
+![Battery Board Block Diagram](Images/EPS2.png)
 
 ---
 
