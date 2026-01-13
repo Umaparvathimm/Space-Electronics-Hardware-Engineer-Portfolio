@@ -13,7 +13,7 @@ The objective was to establish **reliable two-way communication (QSO)** over the
 ## System Architecture
 The transceiver system consists of separate **uplink and downlink RF chains**, integrated around an **SDR-based radio front-end**.
 
-![QO-100 Transceiver System Setup](images/Transciever_Setup.png)
+![QO-100 Transceiver System Setup](Images/Transciever_Setup.png)
 
 ### Key Elements
 - **Software Defined Radio:** ADALM-PlutoSDR
@@ -34,7 +34,7 @@ The transceiver system consists of separate **uplink and downlink RF chains**, i
   - S11 better than **–25 dB** at target frequency
   - VSWR ≈ **1.1–1.4** in the QO-100 narrowband region
 
-![Manufactured Helix Antenna](images/Helix_Antenna.png)
+![Manufactured Helix Antenna](Images/Helix_Antenna.png)
 
 ---
 
@@ -84,7 +84,7 @@ The transceiver system consists of separate **uplink and downlink RF chains**, i
 🎥 **QO-100 Uplink Transmission Test**  
 [Watch video](https://youtu.be/yl5k81lkDBI)
 
-![Final Testing Setup](images/Testing.jpg)
+![Final Testing Setup](Images/Testing.jpg)
 
 ---
 
