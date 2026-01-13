@@ -1,4 +1,4 @@
-# Hardware Development Portfolio
+# Space Electronics & Hardware Engineering Portfolio
 
 Hi, I’m **Uma Parvathi Mallissery Manyan** 👋  
 I am a **Hardware / Electronics Engineer** with ~2 years of hands-on experience in the design, integration, and testing of space-grade electronic systems. My background spans power electronics, fault-tolerant hardware design, and multi-protocol communication interfaces, developed through a master’s specialization in Satellite Technology and applied project work at Fraunhofer EMI and multiple CubeSat missions.
