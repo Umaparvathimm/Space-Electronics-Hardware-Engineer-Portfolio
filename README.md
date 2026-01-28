@@ -1,7 +1,7 @@
 # Space Electronics & Hardware Engineering Portfolio
 
 Hi, I’m **Uma Parvathi Mallissery Manyan** 👋  
-I am a **Hardware / Electronics Engineer** with ~2 years of hands-on experience in the design, integration, and testing of space-grade electronic systems. My background spans power electronics, fault-tolerant hardware design, and multi-protocol communication interfaces, developed through a master’s specialization in Satellite Technology and applied project work at Fraunhofer EMI and multiple CubeSat missions.
+I am a **Hardware / Electronics Engineer** with hands-on experience in the design, integration, and testing of space-grade electronic systems. My background spans power electronics, fault-tolerant hardware design, and multi-protocol communication interfaces, developed through a master’s specialization in Satellite Technology and applied project work at Fraunhofer EMI and multiple CubeSat missions.
 
 I have experience taking hardware from requirements and architecture definition through schematic design, PCB layout, bring-up, debugging, and system-level validation. My master’s thesis at Fraunhofer EMI focused on designing a standardized interface module for integrating COTS processors into high-reliability onboard computers, including regulated power paths, MCU-based supervision, embedded FDIR concepts, and Ethernet/CAN-based communication. This work was presented at European Data Handling & Data Processing Conference (EDHPC) 2025 and accepted for publication in the IEEE proceedings.
 
