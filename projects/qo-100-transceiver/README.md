@@ -88,6 +88,19 @@ The transceiver system consists of separate **uplink and downlink RF chains**, i
 
 ---
 
+## External Reference
+
+## External Reference
+
+This project was carried out as part of the *Satellite Telecommunication Lab* at Julius-Maximilians-University Würzburg.
+
+The development and commissioning of the QO-100 ground station was featured on the official university website, documenting the successful setup and first on-air operations of the station:
+
+🔗 **Amateur radio operators from DL0JMU are QRV on QO-100**  
+[Official University Article – 30.04.2024](https://www.informatik.uni-wuerzburg.de/dl0jmu/aktuelles/single/news/funkamateure-von-dl0jmu-qrv-auf-qo-100/) 
+
+---
+
 ## Tools & Equipment Used
 - **SDRConsole** software
 - ADALM-PlutoSDR
