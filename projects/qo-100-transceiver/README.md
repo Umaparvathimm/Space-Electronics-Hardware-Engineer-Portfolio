@@ -89,9 +89,6 @@ The transceiver system consists of separate **uplink and downlink RF chains**, i
 ---
 
 ## External Reference
-
-## External Reference
-
 This project was carried out as part of the *Satellite Telecommunication Lab* at Julius-Maximilians-University Würzburg.
 
 The development and commissioning of the QO-100 ground station was featured on the official university website, documenting the successful setup and first on-air operations of the station:
